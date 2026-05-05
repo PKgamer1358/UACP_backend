@@ -50,7 +50,7 @@ backend/
 
 ### 1. Clone Repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/PKgamer1358/UACP_backend.git
 cd your-repo-name
 
 ---
